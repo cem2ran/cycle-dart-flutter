@@ -1,0 +1,8 @@
+name: example
+description: A minimal Flutter project.
+dependencies:
+  rxdart: '0.3.10'
+  flutter:
+    path: ../lib/flutter/packages/flutter
+  cycle_dart_flutter:
+    path: ../

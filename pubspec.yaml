@@ -1,0 +1,16 @@
+name: cycle_dart_flutter
+description: A starting point for Dart libraries or applications.
+version: 0.0.1
+author: Cem Turan <cem2ran@gmail.com>
+homepage: https://github.com/cem2ran/cycle-dart-flutter
+
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+
+dependencies:
+  rxdart: '0.3.10'
+  flutter:
+      path: lib/flutter/packages/flutter
+
+dev_dependencies:
+  test: '>=0.12.0 <0.13.0'
