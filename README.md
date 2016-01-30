@@ -66,3 +66,5 @@ view(model$, dispatch) => model$
 
 Follow the [getting started](https://flutter.io/getting-started/) guide. 
 Flutter is included as a submodule under `lib/flutter`.
+
+`./run_example.sh` to initialize example and run it.
